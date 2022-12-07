@@ -38,7 +38,7 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 </div>
 
 - Spotify Wrapped for your Google searches via on-device Natural Language Processing
-- [In-editor terminal for VSCode](https://github.com/bra1nDump/bash-editor) to improve voice control terminal productivity
+- [In-editor terminal VSCode extension](https://github.com/bra1nDump/bash-editor) to improve voice control scripting productivity
 
 # Professional Experience - 5 years
 
