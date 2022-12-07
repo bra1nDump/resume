@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "html-pdf-chrome": "^0.8.1"
+  },
+  "scripts": {
+    "watch": "npx watch ./build.sh . --ignoreDotFiles --ignoreUnreadable"
+  },
+  "devDependencies": {
+    "watch": "^1.0.2"
+  }
+}

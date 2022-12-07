@@ -1,0 +1,160 @@
+@font-face {
+  font-family: "Martian";
+  src: url(MartianGrotesk.woff2);
+}
+
+/* #8168d940 */
+body {
+  font-family: "Martian";
+  /* background: linear-gradient(to bottom left, #9cffef10, white, white, white); */
+  margin: 20pt;
+  padding: 0;
+}
+
+/* https://css-tricks.com/snippets/css/a-guide-to-flexbox/ */
+
+/* Name, contact information header */
+.header {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+/* Name, title */
+h1.name-title {
+  flex-grow: 1;
+  margin: 0;
+}
+
+.position {
+  font-size: 11pt;
+}
+
+/* Contact information */
+.contact {
+  flex-grow: 1;
+}
+
+div.contact ul {
+  flex-grow: 1;
+  margin: 0;
+
+  list-style-type: none;
+  align-items: right;
+  text-align: right;
+}
+
+.contact li {
+  font-size: 9pt;
+}
+
+/* Experience section */
+
+/* Company - Title ------- Timeframe */
+.experience-timeframe {
+  display: flex;
+}
+
+.experience-timeframe h2 {
+  flex-grow: 1;
+}
+
+.experience-timeframe .timeframe {
+  flex-grow: 1;
+  text-align: right;
+}
+
+/* Quote */
+.immersion-section {
+  display: flex;
+}
+
+.points {
+  flex-grow: 3.5;
+  flex-basis: 0;
+}
+
+.quote {
+  flex-grow: 1;
+  flex-basis: 0;
+  font-size: 9pt;
+
+  text-align: right;
+
+  color: dimgray;
+}
+
+.half-break {
+  line-height: 13.5pt;
+}
+
+.secondary-experience-skills {
+  display: flex;
+}
+
+.secondary-experience {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+
+.skills {
+  flex-basis: 0;
+  flex-grow: 1.3;
+
+  margin-left: 20pt;
+}
+
+.skills u {
+  font-size: 12pt;
+}
+
+.skills-list {
+  margin-top: 32px;
+}
+
+.skills h2 {
+  text-align: right;
+}
+
+.skills ul {
+  list-style: none;
+}
+
+.skills li {
+  margin-bottom: 3pt;
+}
+
+.skill-category-list {
+  padding-top: 11pt;
+  font-size: 11pt;
+}
+
+/* Generic font setting */
+h1 {
+  font-size: 16pt;
+}
+
+h2 {
+  font-size: 14pt;
+}
+
+h3 {
+  font-size: 12pt;
+}
+
+ul {
+  margin-block-start: 0.5em;
+  padding-inline-start: 25pt;
+}
+
+li {
+  font-size: 11pt;
+}
+
+/* Hide certain fields */
+.note {
+  display: none;
+}
+
+.optional {
+  display: none;
+}
