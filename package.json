@@ -3,9 +3,10 @@
     "html-pdf-chrome": "^0.8.1"
   },
   "scripts": {
-    "watch": "npx watch ./build.sh . --ignoreDotFiles --ignoreUnreadable"
+    "watch": "npx chokidar '*.md' 'style.css' 'template.html' --command ./build.sh"
   },
   "devDependencies": {
+    "chokidar-cli": "^3.0.0",
     "watch": "^1.0.2"
   }
 }

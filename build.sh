@@ -24,7 +24,7 @@ pandoc \
 CHROME_PID=$!
 
 # It takes some time for chrome to start
-sleep 2
+sleep 1
 
 node html-pdf-chrome-run.js # Outputs in Resume.pdf
 
