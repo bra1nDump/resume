@@ -25,7 +25,10 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 
 - Improved Facebook Feed's immersion, which increased iOS Ad revenue by ~3%
 - Built newest de facto standard analytics framework used across Meta's apps
-- Contributed to [developer productivity project](https://github.com/cursorless-dev/cursorless) with 500+ stars on GitHub
+- Contributed to [open source productivity project](https://github.com/cursorless-dev/cursorless) with 500+ stars on GitHub
+
+<div class="note">
+</div>
 
 ## Passion for building productivity tools
 
