@@ -63,6 +63,7 @@ div.contact ul {
 .experience-timeframe .timeframe {
   flex-grow: 1;
   text-align: right;
+  font-size: 11pt;
 }
 
 /* Quote */

@@ -23,9 +23,12 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 
 ## Accomplishments
 
-- Improved Facebook Feed's immersion, which increased iOS Ad revenue by ~3%
-- Built new analytics framework now a standard across Meta's apps
+- Increased Facebook iOS Ad revenue by ~3% through improved Feed immersion
+- Built new analytics framework now standard across Meta's apps
 - Contributed to [open source productivity project](https://github.com/cursorless-dev/cursorless) with 500+ stars on GitHub
+
+## Want to build productivity tools leveraging ML professionally
+
 - [In-editor terminal VSCode extension](https://github.com/bra1nDump/bash-editor) to improve voice control scripting productivity
 - Gathered a team of enthusiasts and created Google Wrapped using NLP
 
