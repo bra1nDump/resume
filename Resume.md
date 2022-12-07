@@ -29,8 +29,8 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 
 ## Want to build productivity tools leveraging ML professionally
 
-- [In-editor terminal VSCode extension](https://github.com/bra1nDump/bash-editor) to improve voice control scripting productivity
-- Gathered a team of enthusiasts and created Google Wrapped using NLP
+- [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control scripting productivity
+- Gathered a team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
 
 <!-- via on-device Natural Language Processing -->
 
