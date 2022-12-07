@@ -24,13 +24,19 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 ## Accomplishments
 
 - Improved Facebook Feed's immersion, which increased iOS Ad revenue by ~3%
-- Built newest de facto standard analytics framework used across Meta's apps
+- Built new analytics framework now a standard across Meta's apps
 - Contributed to [open source productivity project](https://github.com/cursorless-dev/cursorless) with 500+ stars on GitHub
+- [In-editor terminal VSCode extension](https://github.com/bra1nDump/bash-editor) to improve voice control scripting productivity
+- Gathered a team of enthusiasts and created Google Wrapped using NLP
+
+<!-- via on-device Natural Language Processing -->
 
 <div class="note">
 </div>
 
-## Passion for building productivity tools
+<!-- Max: doesn't like the phrasing, -->
+
+<!-- ## Passion for building productivity tools -->
 
 <div class="note">
     [Elissa]
@@ -40,10 +46,9 @@ title: Kirill Dubovitskiy, Senior Software Engineer
     [Note] Expand on this little bit, explain I want to pivot my career from building mobile apps. Downside is this this is more words, in the fact that this is an interested in section already implies that I want to pivot.
 </div>
 
-- Spotify Wrapped for your Google searches via on-device Natural Language Processing
-- [In-editor terminal VSCode extension](https://github.com/bra1nDump/bash-editor) to improve voice control scripting productivity
+<!-- Reduce year size, try roboto font,  -->
 
-# Professional Experience - 5 years
+# Professional Experience
 
 <div class="experience-timeframe">
 <h2>Meta - IC4</h2>
@@ -78,7 +83,7 @@ Chief Product Officer
 </div>
 <!-- immersion-section -->
 
-### Built novel analytics framework
+### Novel analytics framework
 
 - Partnered with engineers across Facebook and Instagram
 - Built APIs for iOS, React Native, Native Templates, Hack, SQL
@@ -86,9 +91,9 @@ Chief Product Officer
 - Supported ~20 internal Meta teams through consultations
 - Set direction for new capabilities of the analytics framework
 
-### Intern Manager for Facebook Siri integration
+### Facebook-Siri integration
 
-- Defined project, supported intern, reviewed their performance
+- Defined project, managed intern executing on the project
 - Drove call with Apple and pivoted project to use newer Siri APIs
 - Updated build pipeline to support latest iOS 16 AppIntents APIs
 
@@ -123,7 +128,7 @@ Built Zillow competitor app and shipped to iOS and Android stores
 
 <div class="skills-list">
 
-- <span class="underline">Leadership</span>: <span class="skill-category-list">Managing engineers, Roadmapping, Organizing user support</span><br>
+- <span class="underline">Leadership</span>: <span class="skill-category-list">managing engineers, roadmapping, organizing user support</span><br>
 - <span class="underline">Front end</span>: <span class="skill-category-list">iOS, Swift, UIKit, React, ReactNative, TypeScript, Flutter, Xamarin</span><br>
 - <span class="underline">Tooling</span>: <span class="skill-category-list">Python, Bash, Buck, CI/CD, Docker, VSCode Extensions, Chrome Extensions</span><br>
 - <span class="underline">Data</span>: <span class="skill-category-list">Data Analysis, SQL, Spark, SparkML, SparkNLP, TensorFlow.js, Hive, BERT, NLP</span><br>
