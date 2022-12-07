@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap");
+
 @font-face {
   font-family: "Martian";
   src: url(MartianGrotesk.woff2);
@@ -5,7 +7,7 @@
 
 /* #8168d940 */
 body {
-  font-family: "Martian";
+  font-family: "Martian", sans-serif;
   /* background: linear-gradient(to bottom left, #9cffef10, white, white, white); */
   margin: 20pt;
   padding: 0;
