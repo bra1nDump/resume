@@ -96,8 +96,8 @@ Chief Product Officer
 
 ### Facebook-Siri integration
 
-- Defined project, managed intern executing on the project
-- Drove call with Apple and pivoted project to use newer Siri APIs
+- Defined scope and supervised intern working on the project
+- Drove call with Apple and pivoted to use newer Siri APIs
 - Updated build pipeline to support latest iOS 16 AppIntents APIs
 
 <div class="secondary-experience-skills">
