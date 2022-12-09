@@ -1,3 +1,7 @@
+---
+title: Kirill Dubovitskiy, Senior Software Engineer Resume
+---
+
 <div class="header">
 
 <h1 class="name-title">
@@ -40,7 +44,7 @@
 
 - [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control productivity
 - Gathered a team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
-- Taught programming in school using a multiplayer game I built [dont-blink.app](https://www.dont-blink.app/)
+- Taught programming in middle school with multiplayer game [dont-blink.app](https://www.dont-blink.app/) I built
 
 </div>
 <!-- generic-job -->
@@ -66,7 +70,7 @@
 
 <div class="points">
 
-### Facebook Feed immersion
+Facebook Feed immersion
 
 - Project owner: planning, execution, public testing, release
 - Delivered prototype of scrolling-away tab-bar within days
@@ -90,7 +94,7 @@ Chief Product Officer
 </div>
 <!-- immersion-section -->
 
-### Novel analytics framework
+Novel analytics framework
 
 - Partnered with engineers across Facebook and Instagram
 - Built APIs for iOS, React Native, Native Templates, Hack, SQL
@@ -98,7 +102,7 @@ Chief Product Officer
 - Supported ~20 internal Meta teams through consultations
 - Set direction for new capabilities of the analytics framework
 
-### Facebook-Siri integration
+Facebook-Siri integration
 
 - Defined scope and managed intern working on the project
 - Drove call with Apple and pivoted to use newer Siri APIs
