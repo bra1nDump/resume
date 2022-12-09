@@ -1,7 +1,3 @@
----
-title: Kirill Dubovitskiy, Senior Software Engineer
----
-
 <div class="header">
 
 <h1 class="name-title">
@@ -25,21 +21,29 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 
 - Increased Facebook iOS Ad revenue by ~3% through improved Feed immersion
 - Built new analytics framework now standard across Meta's apps
-- Contributed to [open source productivity project](https://github.com/cursorless-dev/cursorless) with 500+ stars on GitHub
+- Contributed to open source [voice control editor extension](https://github.com/cursorless-dev/cursorless) with 500+ GitHub stars
+
+<!-- To be hidden in a more generic resume -->
+<div class="productivity-flavor">
 
 ## Want to build productivity tools leveraging ML professionally
 
-- [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control scripting productivity
+- [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control productivity
 - Gathered a team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
 
-<!-- via on-device Natural Language Processing -->
-
-<div class="note">
 </div>
+<!-- productivity-flavor -->
 
-<!-- Max: doesn't like the phrasing, -->
+<div class="generic-job">
 
-<!-- ## Passion for building productivity tools -->
+## Latest personal projects
+
+- [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control productivity
+- Gathered a team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
+- Taught programming in school using a multiplayer game I built [dont-blink.app](https://www.dont-blink.app/)
+
+</div>
+<!-- generic-job -->
 
 <div class="note">
     [Elissa]
@@ -54,7 +58,7 @@ title: Kirill Dubovitskiy, Senior Software Engineer
 # Professional Experience
 
 <div class="experience-timeframe">
-<h2>Meta - IC4</h2>
+<h2>Meta - Software Engineer (IC4)</h2>
 <h2 class="timeframe">2020 - 2022</h4>
 </div>
 
@@ -96,7 +100,7 @@ Chief Product Officer
 
 ### Facebook-Siri integration
 
-- Defined scope and supervised intern working on the project
+- Defined scope and managed intern working on the project
 - Drove call with Apple and pivoted to use newer Siri APIs
 - Updated build pipeline to support latest iOS 16 AppIntents APIs
 
@@ -127,7 +131,7 @@ Built Zillow competitor app and shipped to iOS and Android stores
 
 <div class="skills">
 
-## Skills
+# Skills
 
 <div class="skills-list">
 
