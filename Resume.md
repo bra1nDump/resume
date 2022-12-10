@@ -75,7 +75,7 @@ Facebook Feed immersion
 - Project owner: planning, execution, public testing, release
 - Delivered prototype of scrolling-away tab-bar within days
 - Worked around UIKit limitations to hide navigation-bar
-- Made iterations based on user feedback and experiment results
+<!-- - Made iterations based on user feedback and experiment results -->
 - Teamed up with Ads engineers to prevent impression breakages
 <li class="optional">Proactively reached out to Ads Impression team to test the feature</li>
 <li class="optional">Ran public experiments with multiple test groups / parameters</li>
@@ -143,6 +143,7 @@ Built Zillow competitor app and shipped to iOS and Android stores
 - <span class="underline">Front end</span>: <span class="skill-category-list">iOS, Swift, UIKit, React, ReactNative, TypeScript, Flutter, Xamarin</span><br>
 - <span class="underline">Tooling</span>: <span class="skill-category-list">Python, Bash, Buck, CI/CD, Docker, VSCode Extensions, Chrome Extensions</span><br>
 - <span class="underline">Data</span>: <span class="skill-category-list">Data Analysis, SQL, Spark, SparkML, SparkNLP, TensorFlow.js, Hive, BERT, NLP</span><br>
+- <span class="underline">Back end</span>: <span class="skill-category-list">Node.js, WebRTC, AWS Cognito, Azure DevOps, Google Vision AI, Elixir</span><br>
 
 </dev>
 

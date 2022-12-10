@@ -15,4 +15,6 @@ const options = {
   },
 };
 
-htmlPdf.create(html, options).then((pdf) => pdf.toFile("Resume.pdf"));
+htmlPdf
+  .create(html, options)
+  .then((pdf) => pdf.toFile("Kirill Dubovitskiy Resume.pdf"));
