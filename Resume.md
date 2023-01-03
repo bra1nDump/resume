@@ -49,14 +49,6 @@ title: Kirill Dubovitskiy, Senior Software Engineer Resume
 </div>
 <!-- generic-job -->
 
-<div class="note">
-    [Elissa]
-    What is my objective -
-    Why am I interested in these?
-    Goals? Like long term?
-    [Note] Expand on this little bit, explain I want to pivot my career from building mobile apps. Downside is this this is more words, in the fact that this is an interested in section already implies that I want to pivot.
-</div>
-
 <!-- Reduce year size, try roboto font,  -->
 
 # Professional Experience
@@ -75,10 +67,10 @@ Facebook Feed immersion
 - Project owner: planning, execution, public testing, release
 - Delivered prototype of scrolling-away tab-bar within days
 - Worked around UIKit limitations to hide navigation-bar
-<!-- - Made iterations based on user feedback and experiment results -->
 - Teamed up with Ads engineers to prevent impression breakages
 <li class="optional">Proactively reached out to Ads Impression team to test the feature</li>
 <li class="optional">Ran public experiments with multiple test groups / parameters</li>
+<!-- [Removed in favor of back end skills] - Made iterations based on user feedback and experiment results -->
 
 </div>
 <!-- points -->
