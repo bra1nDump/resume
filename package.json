@@ -4,6 +4,6 @@
   },
   "devDependencies": {
     "chokidar-cli": "^3.0.0",
-    "html-pdf-chrome": "^0.8.1"
+    "html-pdf-chrome": "^0.8.2"
   }
 }

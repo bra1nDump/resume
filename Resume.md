@@ -33,7 +33,7 @@ title: Kirill Dubovitskiy, Senior Software Engineer Resume
 ## Want to build productivity tools leveraging ML professionally
 
 - [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control productivity
-- Gathered a team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
+- Gathered team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
 
 </div>
 <!-- productivity-flavor -->
@@ -43,7 +43,8 @@ title: Kirill Dubovitskiy, Senior Software Engineer Resume
 ## Latest personal projects
 
 - [In-editor terminal](https://github.com/bra1nDump/bash-editor) VSCode extension to improve voice control productivity
-- Gathered a team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
+- Gathered team of enthusiasts and created [GoogleWrapped.com](https://www.googlewrapped.com/) using NLP
+- Created iOS keyboard [AI Keys](https://apps.apple.com/app/apple-store/id1660546173?pt=117730529&ct=kirill-resume&mt=8) to generate images with DALLE OpenAI in any chat
 - Taught programming in middle school with multiplayer game [dont-blink.app](https://www.dont-blink.app/) I built
 
 </div>
@@ -97,7 +98,7 @@ Novel analytics framework
 Facebook-Siri integration
 
 - Defined scope and managed intern working on the project
-- Drove call with Apple and pivoted to use newer Siri APIs
+<!-- - Drove call with Apple and pivoted to use newer Siri APIs -->
 - Updated build pipeline to support latest iOS 16 AppIntents APIs
 
 <div class="secondary-experience-skills">
@@ -131,7 +132,7 @@ Built Zillow competitor app and shipped to iOS and Android stores
 
 <div class="skills-list">
 
-- <span class="underline">Leadership</span>: <span class="skill-category-list">managing engineers, roadmapping, organizing user support</span><br>
+- <span class="underline">Leadership</span>: <span class="skill-category-list">Managing Engineers, Roadmapping, Organizing User Support</span><br>
 - <span class="underline">Front end</span>: <span class="skill-category-list">iOS, Swift, UIKit, React, ReactNative, TypeScript, Flutter, Xamarin</span><br>
 - <span class="underline">Tooling</span>: <span class="skill-category-list">Python, Bash, Buck, CI/CD, Docker, VSCode Extensions, Chrome Extensions</span><br>
 - <span class="underline">Data</span>: <span class="skill-category-list">Data Analysis, SQL, Spark, SparkML, SparkNLP, TensorFlow.js, Hive, BERT, NLP</span><br>
