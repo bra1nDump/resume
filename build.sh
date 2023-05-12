@@ -5,6 +5,9 @@ pandoc \
     --template template.html \
     --to html --output Resume.html \
     Resume.md
+    
+# Copy file for GitHub pages deployment
+cp Resume.html index.html
 
 # Script started failing :(
 # Error ERROR:devtools_http_handler.cc(636)] Using unsafe HTTP verb GET to invoke /json/new. This action will stop supporting GET and POST verbs in future versions.
