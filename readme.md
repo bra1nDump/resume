@@ -7,8 +7,10 @@ I created a custom resume using markdown and css. I used [pandoc](https://pandoc
 - You are using a Mac
 - Node.js is installed
 - Chrome is installed
+- Homebrew is installed
 
 ```bash
+brew install pandoc
 npm install
 
 # Continiously build the resume as you make changes to .md or .css files
